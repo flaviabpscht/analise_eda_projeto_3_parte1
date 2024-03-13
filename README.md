@@ -1,3 +1,7 @@
+## Projeto 3 - Classificação foi dividido em duas partes.  Parte 1 traz a Análise de Dados Exploratória
+
+## Project 3 - Classification was divided into two parts. Part 1 brings Exploratory Data Analysis
+
 ## <a>Motivação </a>
 
 Muitos problemas da vida real na carreira de cientista de dados são modelados como classificação. Quando nossa variável dependente é discreta, temos uma classificação. As classes podem ser somente duas (variável dependente binária) ou problemas multiclasse. 
